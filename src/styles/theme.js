@@ -14,5 +14,6 @@ export const theme = {
     medium: '14px',
     medium_large: '18px',
     small: '12px',
+    xlarge: '32px',
   },
 };
