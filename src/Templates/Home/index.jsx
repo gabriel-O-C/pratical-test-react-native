@@ -7,7 +7,6 @@ import {
   Title,
   Container,
 } from '../../components';
-import { View } from 'react-native';
 const Home = () => {
   return (
     <Container>
@@ -15,9 +14,7 @@ const Home = () => {
         <Heading>Bookshelf</Heading>
         <ProfileImage />
       </Header>
-      <View>
-        <Input />
-      </View>
+      <Input />
       <Title>Para você</Title>
     </Container>
   );
