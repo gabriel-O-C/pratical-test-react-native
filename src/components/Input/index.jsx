@@ -1,11 +1,8 @@
 import React from 'react';
 import * as Styled from './styles/styles';
+
 const Input = () => {
-  return (
-    <Styled.Wrapper>
-      <Styled.Input placeholder="Qual livro você gostaria de ler hoje?" />
-    </Styled.Wrapper>
-  );
+  return <Styled.Input placeholder="Qual livro você gostaria de ler hoje?" />;
 };
 
 export default Input;

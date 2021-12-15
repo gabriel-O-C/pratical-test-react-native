@@ -5,5 +5,4 @@ export const Heading = styled.Text`
   font-family: ${props => props.theme.fonts.lato};
   font-size: ${props => props.theme.sizes.large};
   font-weight: 900;
-  margin-left: ${props => props.theme.sizes.large};
 `;

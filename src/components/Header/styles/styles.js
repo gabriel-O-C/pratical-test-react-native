@@ -5,4 +5,5 @@ export const Header = styled.View`
   justify-content: space-between;
   flex-direction: row;
   margin-top: 36px;
+  margin-bottom: 28px;
 `;
